@@ -18,5 +18,108 @@
     "displayTitle": "",
     "body": "",
     "instruction": ""
+  },
+  {
+    "_id": "a-10",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "",
+    "title": "a-01",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-15",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_coral",
+    "title": "Knowledge test",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-20",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "",
+    "title": "Evidence based Practice",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-25",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_blue",
+    "title": "Evidence based Practice",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-39",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_coral",
+    "title": "a-15",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-40",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_coral",
+    "title": "Evaluation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "Assessment 1",
+      "_suppressMarking": false,
+      "_scoreToPass": 85,
+      "_correctToPass": 85,
+      "_isPercentageBased": true,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": 3,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "2,1",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": true,
+        "_blockCount": 8
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_comment": "For 'soft', when using trickle, please set the trickle Completion Attribute to `_isInteractionComplete'.",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": true
+      }
+    },
+    "_trickle": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "a-65",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_blue",
+    "title": "Results",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
   }
 ]

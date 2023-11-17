@@ -1,5 +1,5 @@
 [
- {
+  {
     "_id": "c-05",
     "_parentId": "b-01",
     "_type": "component",
@@ -44,230 +44,720 @@
     }
   },
   {
-      "_id": "c-30",
-      "_parentId": "b-15",
-      "_type": "component",
-      "_component": "graphic",
-      "_classes": "",
-      "_layout": "left",
-      "title": "Spectacles and contact lenses",
-      "displayTitle": "",
-      "body": "It is believed that the first pair of single vision spectacles were invented in the 13th century in Italy. Scientist Benjamin Franklin is credited for inventing bifocals in 1784 and the first commercially available progressive lens was developed by Duke Elder in 1922. German ophthalmologist Adolf Gaston Eugen Fick designed and made the first scleral contact lenses in 1888 and the first corneal contact lenses were developed in 1949.",
-      "instruction": "",
-      "_graphic": {
-          "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
-          "longdescription": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
-          "large": "course/en/images/Tommaso_da_modena.jpeg",
-          "small": "course/en/images/Tommaso_da_modena.jpeg",
-          "attribution": "",
-          "_url": "",
-          "_target": ""
-      },
-      "_isScrollable": false,
-      "_defaultScrollPercent": 0,
-      "_pageLevelProgress": {
-          "_isEnabled": true
-      }
+    "_id": "c-30",
+    "_parentId": "b-15",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Spectacles and contact lenses",
+    "displayTitle": "",
+    "body": "It is believed that the first pair of single vision spectacles were invented in the 13th century in Italy. Scientist Benjamin Franklin is credited for inventing bifocals in 1784 and the first commercially available progressive lens was developed by Duke Elder in 1922. German ophthalmologist Adolf Gaston Eugen Fick designed and made the first scleral contact lenses in 1888 and the first corneal contact lenses were developed in 1949.",
+    "instruction": "",
+    "_graphic": {
+      "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+      "longdescription": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+      "large": "course/en/images/Tommaso_da_modena.jpeg",
+      "small": "course/en/images/Tommaso_da_modena.jpeg",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
   },
   {
-      "_id": "c-35",
-      "_parentId": "b-15",
-      "_type": "component",
-      "_component": "graphic",
-      "_classes": "",
-      "_layout": "right",
-      "title": "Examination instruments and diagnostic tests",
-      "displayTitle": "",
-      "body": "Hermann Von Helmholtz invented the 1st direct ophthalmoscope over 150 years ago. Below is a timeline of other inventions that have shaped our optometric examination today.",
-      "instruction": "",
-      "_graphic": {
-          "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
-          "longdescription": "Early model of the Helmholtz ophthalmoscope, 1851.",
-          "large": "course/en/images/Ophtalmoscope.png",
-          "small": "course/en/images/Ophtalmoscope.png",
-          "attribution": "",
-          "_url": "",
-          "_target": ""
-      },
-      "_isScrollable": false,
-      "_defaultScrollPercent": 0,
-      "_pageLevelProgress": {
-          "_isEnabled": true
-      }
+    "_id": "c-35",
+    "_parentId": "b-15",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Examination instruments and diagnostic tests",
+    "displayTitle": "",
+    "body": "Hermann Von Helmholtz invented the 1st direct ophthalmoscope over 150 years ago. Below is a timeline of other inventions that have shaped our optometric examination today.",
+    "instruction": "",
+    "_graphic": {
+      "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+      "longdescription": "Early model of the Helmholtz ophthalmoscope, 1851.",
+      "large": "course/en/images/Ophtalmoscope.png",
+      "small": "course/en/images/Ophtalmoscope.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
   },
   {
-        "_iD": "c-40",
-        "_parentId": "b-20",
-        "_type": "component",
-        "_component": "verticalItems",
-        "_classes": "",
-        "_layout": "full",
-        "title": "List component",
-        "displayTitle": "",
-        "body": "These databases include:",
-        "bodyAfter": "",
-        "instruction": "In this module, we are going to discuss two freely available databases, Google Scholar and PubMed however others are available.",
-        "_onScreenPercentInviewVertical": 10,
-        "_items": [
-            {
-                "title": "1851",
-                "body": "Direct Ophthalmoscope invented by Hermann Von Helmholtz ",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image1.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1862",
-                "body": "Snellen Acuity Chart invented by Herman Snellen",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image2.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1901",
-                "body": "Retinoscope invented by Wolff",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image3.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1910", 
-                "body": "Fundus Camera invented by Gullstrand",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image4.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1911",
-                "body": "Slit lamp invented by Allvar Gullstand",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image5.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1917",
-                "body": "Ishihara Colour Vision Test invented by Shinobu Ishihara",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image6.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1918",
-                "body": "Gonioscopy lens invented by Alexios Trantas",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image7.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1945",
-                "body": "Binocular Indirect Ophthalmoscope invented by Charles Schepens",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image8.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1945",
-                "body": "Goldmann perimetry invented by Hans Goldman",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image9.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1954 ",
-                "body": "Goldmann Applanation Tonometry invented by Hanns Goldmann",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image10.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1976 ",
-                "body": "LogMAR CHART- Ian Bailey and Jan Lovie-kitchen",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image11.png",
-                "alt": ""
-              }
-            },
-            {
-                "title": "1991",
-                "body": "Optical Coherence Tomography- invented by a team from USA and Austria",
-              "_icon": {
-                "src": "",
-                "_classes": "",
-                "alt": ""
-              },
-              "_graphic": {
-                "src": "course/en/images/TL/image12.png",
-                "alt": ""
-              }
-            }
-        ],
-        "_pageLevelProgress": {
-            "_isEnabled": false
+    "_iD": "c-40",
+    "_parentId": "b-20",
+    "_type": "component",
+    "_component": "verticalItems",
+    "_classes": "",
+    "_layout": "full",
+    "title": "List component",
+    "displayTitle": "",
+    "body": "These databases include:",
+    "bodyAfter": "",
+    "instruction": "In this module, we are going to discuss two freely available databases, Google Scholar and PubMed however others are available.",
+    "_onScreenPercentInviewVertical": 10,
+    "_items": [
+      {
+        "title": "1851",
+        "body": "Direct Ophthalmoscope invented by Hermann Von Helmholtz ",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image1.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1862",
+        "body": "Snellen Acuity Chart invented by Herman Snellen",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image2.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1901",
+        "body": "Retinoscope invented by Wolff",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image3.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1910",
+        "body": "Fundus Camera invented by Gullstrand",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image4.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1911",
+        "body": "Slit lamp invented by Allvar Gullstand",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image5.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1917",
+        "body": "Ishihara Colour Vision Test invented by Shinobu Ishihara",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image6.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1918",
+        "body": "Gonioscopy lens invented by Alexios Trantas",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image7.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1945",
+        "body": "Binocular Indirect Ophthalmoscope invented by Charles Schepens",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image8.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1945",
+        "body": "Goldmann perimetry invented by Hans Goldman",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image9.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1954 ",
+        "body": "Goldmann Applanation Tonometry invented by Hanns Goldmann",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image10.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1976 ",
+        "body": "LogMAR CHART- Ian Bailey and Jan Lovie-kitchen",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image11.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "1991",
+        "body": "Optical Coherence Tomography- invented by a team from USA and Austria",
+        "_icon": {
+          "src": "",
+          "_classes": "",
+          "alt": ""
+        },
+        "_graphic": {
+          "src": "course/en/images/TL/image12.png",
+          "alt": ""
         }
       }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-45",
+    "_parentId": "b-25",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Normative data",
+    "displayTitle": "",
+    "body": "<p>Normative data relating to each diagnostic test and instrument are helpful for clinicians to be able to differentiate between “normal” and “abnormal” results.</p><p>It is important to note that these normative values may differ depending on the population being examined (e.g. age, gender, ethnicity etc. may influence n ormative values) and normative values may vary between tests, even if the test is examining the same function or structure. For example, below are two graphs displaying normative data for children’s visual acuity measured using the Lea high contrast picture test (Graph 1) and the Sonksen logMAR crowded letter visual acuity test (Graph 2).</p><p>Like the familiar graphs used by midwives and health visitors to measure baby weight, length and head circumference, these graphs include percentile lines. From these we can determine if a result for a particular individual is an average result for their age i.e. lies on the 50th percentile or whether it is below or above average for age.</p><p>If we consider a monocular acuity of 6/6 (i.e. 0.00 logMAR) in a 7-year-old girl, this would be considered an average result (i.e. at the 50th percentile) using the Lea pictures test. However, the same result measured using the Sonsken letter test would be considered below average as it is between the 25th and 10th percentile</p> ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-55",
+    "_parentId": "b-30",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Narrative",
+    "displayTitle": "",
+    "body": "On the graphs, the green dots indicate the visual acuity for a 7 year old.",
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_hasNavigationInTextArea": false,
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_items": [
+      {
+        "title": "Lea High Contrast Test",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/images/leaHighContrast.png",
+          "alt": "Picture a of lady pointing at a shape on the Lea High Contrast picture test.",
+          "attribution": ""
+        },
+        "strapline": "Lea High Contrast Test"
+      },
+      {
+        "title": "Lea High Contrast Visual Acuity",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/images/lowcontras.png",
+          "alt": "A graph of the Lea high contrast visual acuity test.",
+          "attribution": ""
+        },
+        "strapline": "Lea High Contrast Visual Acuity"
+      },
+      {
+        "title": "Sonksen logMAR Test",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/images/logMAR.png",
+          "alt": "A picture of two pairs of glasses with one eye blocked on each, and a flip board with printed big letters.",
+          "attribution": ""
+        },
+        "strapline": "Sonksen logMAR Test"
+      },
+      {
+        "title": "Sonksen logMAR test of visual acuity",
+        "body": "",
+        "_graphic": {
+          "src": "course/en/images/SonksenLogMAR.png",
+          "alt": "A grapg of the Sonksen logMAR test of visual acuity.",
+          "attribution": ""
+        },
+        "strapline": "Sonksen logMAR Test"
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-60",
+    "_parentId": "b-35",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "info-icon",
+    "_layout": "full",
+    "title": "Abnormal values",
+    "displayTitle": "",
+    "body": "<p>In addition to knowing the normative values for the tests that we use in practice, we also need to know when an abnormal value requires intervention in the form of treatment or further investigation.  The recommended point of intervention may change over time depending on the latest research evidence. </p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-65",
+    "_parentId": "b-40",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Treatments",
+    "displayTitle": "",
+    "body": "<p>Prior to the development of antibiotic ointments such as chloramphenicol, different concoctions were recommended to treat eye infections. For example, Bald's Leechbook, an Old English medical textbook thought to be written in the mid 10th century recommends styes are treated with a salve of wine, leeks, garlic and ox gall from a cow's stomach that has been left to ferment in a copper pot for nine days. </p><p>Research continues to drive the development of new and improved treatments and care for our patients. The College of Optometrists’ Clinical Management Guidelines (CMGs) are formulated following review of the current research evidence. Dr. Paramdeep Bilkhu McOptom Clinical Advisor for the College tells us more:</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-70",
+    "_parentId": "b-50",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "vimeo",
+    "title": "Component Title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Click the button to play",
+    "_setCompletionOn": "play",
+    "_media": {
+      "_source": "//vimeo.com/885696687",
+      "_autoplay": false,
+      "_loop": false,
+      "_pauseWhenOffScreen": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p>The clinical management guidelines were initially developed in 2008 when optometrists were first granted independent prescribing status due to changes in legislation and amendments to the human medicines regulations. These changes are underpinned by the provision of published guidance to support optometrists to prescribe safely and effectively within their scope of practice.</p><p>However, they're also used by other health professionals such as GPs, nurses, and pharmacists. While they're not exhausted at present, the CMGs enable optometrists to make evidence-based clinical decisions on the diagnosis and treatment over 60 common and rare eye conditions that may present in practice. Each CMG is structured in a standardized format, covering condition, aetiology, risk factors, patient presentation differential, and management advice, both non-pharmacological and pharmacological, and also setting up the quality and strength of that evidence.</p><p>For each of these recommendations, the CMGs are written and updated regularly by a team of optometrists and ophthalmologists following a nice approved external peer review process. The first step to update the CMGs is to formulate search terms based on a series of clinical questions. For example, questions on therapeutic interventions are always based in terms of patient intervention, comparator and outcome, known as the P PICO framework. </p><p>For example, In children with bacterial conjunctivitis, is chloramphenicol more effective than placebo in bringing about a faster resolution? In this case, children with bacterial conjunctivitis would be the P or patient. Chloramphenicol is the I or intervention. Placebo is the C or comparator, and faster resolution is the O or outcome appropriate.</p><p>The quality of the evidence for each clinical question is determined after considering the study design, consistency and applicability of the evidence to the target population and is rated by the high, medium, or low, with high meaning any further research is unlikely to change the confidence in the estimate of any treatment effects. However, the grade system allows for upgrading observational study or downgrading a randomized controlled trial using specific criteria where appropriate.</p><p>The strength of the evidence is graded by strong or weak based upon the balance between desirable and undesirable effects, the quality of the evidence and variability or uncertainty about patient values and preferences.</p><p>That's where the writing team are confident that most patients would benefit from a particular treatment or management strategy. A strong rating is given if there's uncertainty regarding the magnitude of treatment effects or risks and benefits are finely balanced, then a risk, then a weak rating is given.</p><p>Once updated the CMG draft is then sent out for peer review to three groups. The CMG reference group, the Independent Prescribing Review group, and the public and patients reference group feedback is collated and considered to refine the drafts before a final version with track changes is sent to the College's Education and Standards Committee for review and approval. Only once the queries are addressed is approval granted before publication on the college website. The CMGs are publicly available on our website, but also available on the College app, which is currently only accessible to College members.</p>",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "assets/transcript.pdf"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "_id": "c-80",
+    "_parentId": "b-60",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "",
+    "body": "Which of the following statements are true?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "The CMGs support optometrists to prescribe safely and effectively within their scope of practice",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "The recommendations given in the guidelines is evidence based",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "The GRADE system is used to determine the quality of the evidence used in the recommendations ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "The CMGs are regularly reviewed so that recommendations are current",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get it right this time."
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "The choice you made was correct, but it wasn't the only correct choice."
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-100",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "vimeo",
+    "title": "What is evidence-based Practice?",
+    "displayTitle": "What is Evidence-Based Practice?",
+    "body": "",
+    "instruction": "Click the button to play",
+    "_setCompletionOn": "play",
+    "_media": {
+      "_source": "//vimeo.com/885696687",
+      "_autoplay": false,
+      "_loop": false,
+      "_pauseWhenOffScreen": false
+    },
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "As a practicing optometrist or eye care professional, you'll need to know how to find and critically review evidence to ensure that the treatment and advice you are providing to your patients is evidence-based. There are three main elements to evidence-based practice. The first is research evidence: what do the research articles or studies say about best practices when managing or treating an eye condition? The second element is the patient, which includes their values and their personal preferences. The third element is you, the clinician, taking into account your experience and your judgment.",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "assets/transcript.pdf"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "_id": "c-110",
+    "_parentId": "b-110",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "text",
+    "title": "Component Title",
+    "displayTitle": "",
+    "body": "Evidence-based practice (EBP) involves integrating the best available clinical research evidence with individual clinical expertise. EBP aims to incorporate knowledge from science and research into clinical decision-making to improve patient outcomes. It involves the use of relevant research such as robust clinical trials to direct clinical decision-making, as opposed to habit or ‘expert opinion.’ There is a large movement towards EBP in most healthcare roles and optometry is no different.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-120",
+    "_parentId": "b-120",
+    "_type": "component",
+    "_classes": "info-icon",
+    "_layout": "full",
+    "_component": "text",
+    "title": "Component Title",
+    "displayTitle": "",
+    "body": "Health research is not inherently restricted to academia, it is a clinical activity that begins with observations and questions you, as practitioners have. ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-130",
+    "_parentId": "b-130",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "text",
+    "title": "component title",
+    "displaytitle": "",
+    "body": "clinical evidence comes from many sources. in earlier modules, we covered how to critically review sources of evidence by examining the study design, assessing the quality of the methodology and determining whether the results are clinically significant. these skills are essential when implementing evidence-based practice.",
+    "instruction": "",
+    "_pagelevelprogress": {
+      "_isenabled": false
+    }
+  },
+  {
+    "_id": "c-211",
+    "_parentId": "b-210",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Why evidence-based practice is important",
+    "displaytitle": "Why evidence-based practice is important",
+    "body": "It is easy for our clinical practice to become static, using the same examination techniques, prescribing the same treatments or recommending the same interventions. our clinical habits are derived from our learning and experiences and can also be influenced by what a supervisor, employer, colleague or sales representative advises us to do. we need to guard against continuing to use techniques or making recommendations that are not current or the most effective. ",
+    "instruction": "select the headings to find out more.",
+    "_shouldcollapseitems": true,
+    "_shouldexpandfirstitem": false,
+    "_comment": "setcompletionon = inview | allitems",
+    "_setcompletionon": "allitems",
+    "_items": [
+      {
+        "title": "For example...",
+        "body": "Prior to the latest evidence it was common for optometrists to under correct myopia in the hope of slowing progression. however this practice was found to promote myopia progression rather than inhibit it (undercorrection of myopia enhances rather than inhibits myopia progression - sciencedirect).",
+        "_imagealignment": "full",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By reviewing...",
+        "body": "By reviewing and referring to the current evidence base we can ensure that the advice and management we are offering our patients is appropriate and up to date.",
+        "_imagealignment": "left",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Evidence-based practice...",
+        "body": "Is about ensuring that the patient wishes and circumstances, along with your own professional judgement, are considered alongside the published evidence. your patients should understand the benefits and risks of any proposed treatments or management options and all three elements should be weighed up before making a clinical decision with the patient.",
+        "_imagealignment": "right",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_pagelevelprogress": {
+      "_isenabled": true
+    }
+  },
+  {
+    "_id": "c-216",
+    "_parentId": "b-210",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "text",
+    "title": "",
+    "displaytitle": "",
+    "body": "Module 8 will detail the how to incorporate evidence-based practice.",
+    "instruction": "",
+    "_pagelevelprogress": {
+      "_isenabled": false
+    }
+  },
+  {
+    "_id": "c-399",
+    "_parentId": "b-399",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Assessment",
+    "displayTitle": "Assessment",
+    "body": "To get accreditation for this learning module, complete the following assessment. Questions will display one at a time and you will 3 attempts for each question. To move from one question to the next, select the <strong>Continue</strong> button at the bottom of the screen. <br>This assessment consists of 8 questions.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-500",
+    "_parentId": "b-400",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "What is a paired t-test used for? ",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "What is a paired t-test used for? ",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Reliability",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Repeatability",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Agreement between methods",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-1000",
+    "_parentId": "b-470",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Results",
+    "displayTitle": "Results",
+    "body": "",
+    "instruction": "",
+    "_assessmentId": "Assessment 1",
+    "_isVisibleBeforeCompletion": true,
+    "_comment": "_resetType = inherit | hard | soft",
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "Why not have another try? You have used {{attemptsSpent}} of {{attempts}} attempt(s), which means you have {{attemptsLeft}} attempt(s) remaining.",
+      "_routeToAssessment": true
+    },
+    "_completionBody": "Congratulations on completing this module.<br>You have finished the assessment.<br>You scored {{{score}}} out of {{{maxScore}}}. {{{feedback}}}",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "Your score was below 25%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 25,
+        "feedback": "Your score was below 50%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 50,
+        "feedback": "Good effort, but your score was under 75%.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 75,
+        "feedback": "Great work. You passed your assessment with {{{scoreAsPercent}}}%.",
+        "_allowRetry": false,
+        "_classes": "high-score"
+      }
+    ],
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  }
 ]
