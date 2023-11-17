@@ -1,0 +1,140 @@
+   {
+        "_id": "c-102",
+        "_parentId": "b-101",
+        "_type": "component",
+        "_component": "talk",
+        "_classes": "",
+        "_layout": "full",
+        "title": "talk items",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_characters": [
+          {
+            "name": "Independent samples t-test was used to compare the corrected LogMAR VA at visit 1 between the intervention and control groups.",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+	],
+        "_items": [
+          {
+            "_character": 1,
+            "text": "There was no significant difference in corrected LogMAR VA between the intervention (M=0.082, SD=0.05) and control (M=0.096, SD=0.04), t (18) =0.627, p=0.538.  ",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+      },
+   {
+        "_id": "c-103",
+        "_parentId": "b-101",
+        "_type": "component",
+        "_component": "talk",
+        "_classes": "",
+        "_layout": "full",
+        "title": "talk items",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_characters": [
+          {
+            "name": "Paired t-test was used to compare the score on allergy test at visit 1 to visit 2. ",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+	],
+        "_items": [
+          {
+            "_character": 1,
+            "text": "There was a statistically significant decrease in scores on the allergy symptom test between visits 1 (M=3.85, SD=0.99) and 2 (M=2.90, SD=1.12), t (19) =4.25, p<0.001.",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+      },
+      {
+        "_id": "c-104",
+        "_parentId": "b-101",
+        "_type": "component",
+        "_component": "talk",
+        "_classes": "",
+        "_layout": "full",
+        "title": "talk items",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_characters": [
+          {
+            "name": "Paired t-test was used to compare the corrected LogMAR VA at visit 1 to visit 2. ",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+	],
+        "_items": [
+          {
+            "_character": 1,
+            "text": "There was a statistically significant improvement in corrected LogMAR VA between visits 1 (M=0.089, SD=0.05) and 2 (M=0.068, SD=0.05), t (19) =3.59, p=0.002. ",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+      },
+      {
+        "_id": "c-105",
+        "_parentId": "b-101",
+        "_type": "component",
+        "_component": "talk",
+        "_classes": "",
+        "_layout": "full",
+        "title": "talk items",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_characters": [
+          {
+            "name": "Independent samples t-test was used to compare the corrected LogMAR VA at visit 2 between the intervention (M=0.042, SD=0.04) and control groups (M=0.094, SD=0.04)",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+	],
+        "_items": [
+          {
+            "_character": 1,
+            "text": "There was a statistically significant improvement in corrected LogMAR VA between visits 1 (M=0.089, SD=0.05) and 2 (M=0.068, SD=0.05), t (19) =3.59, p=0.002. ",
+            "_graphic": {
+              "alt": "",
+              "src": ""
+            }
+          },
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+      }

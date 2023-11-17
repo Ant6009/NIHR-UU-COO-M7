@@ -1,0 +1,273 @@
+[
+ {
+    "_id": "c-05",
+    "_parentId": "b-01",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Welcome",
+    "displayTitle": "Welcome",
+    "body": "Research is the foundation upon which our clinical practice is built and continues to be built on. Research studies have led to the development of new examination and ocular imaging techniques, new treatments and have determined what we as clinicians recognise as being ‘normal’ or ‘abnormal’. This module will explain the importance of research in optometry and how research findings can be used to enhance your clinical practise and improve patient outcomes. ",
+    "instruction": ""
+  },
+  {
+    "_id": "c-10",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "standout-component",
+    "_layout": "",
+    "title": "ILOs",
+    "displayTitle": "",
+    "body": "<h3>Upon completion of this module, you will be able to:</h3><ul>  <li>Appreciate how research has informed the evolution of optometric practice</li> <li>Understand the importance of normative data when determining whether a measurement is “normal” or “abnormal”</li><li>Understand how to use the College of Optometrists Clinical Management Guidelines in practice</li><li>Define evidence-based practice</li></ul>  ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-25",
+    "_parentId": "b-10",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Research and Optometry",
+    "displayTitle": "Research and Optometry",
+    "body": "The examination instruments, diagnostic tests, treatments and vision aids used and prescribed by optometrists today stem from the innovation of researchers over the centuries.",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+      "_id": "c-30",
+      "_parentId": "b-15",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Spectacles and contact lenses",
+      "displayTitle": "",
+      "body": "It is believed that the first pair of single vision spectacles were invented in the 13th century in Italy. Scientist Benjamin Franklin is credited for inventing bifocals in 1784 and the first commercially available progressive lens was developed by Duke Elder in 1922. German ophthalmologist Adolf Gaston Eugen Fick designed and made the first scleral contact lenses in 1888 and the first corneal contact lenses were developed in 1949.",
+      "instruction": "",
+      "_graphic": {
+          "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+          "longdescription": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+          "large": "course/en/images/Tommaso_da_modena.jpeg",
+          "small": "course/en/images/Tommaso_da_modena.jpeg",
+          "attribution": "",
+          "_url": "",
+          "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
+  },
+  {
+      "_id": "c-35",
+      "_parentId": "b-15",
+      "_type": "component",
+      "_component": "graphic",
+      "_classes": "",
+      "_layout": "right",
+      "title": "Examination instruments and diagnostic tests",
+      "displayTitle": "",
+      "body": "Hermann Von Helmholtz invented the 1st direct ophthalmoscope over 150 years ago. Below is a timeline of other inventions that have shaped our optometric examination today.",
+      "instruction": "",
+      "_graphic": {
+          "alt": "Detail of a portrait of the Dominican Cardinal and renowned biblical scholar Hugh of Saint-Cher, painted by Tommaso da Modena in 1352.",
+          "longdescription": "Early model of the Helmholtz ophthalmoscope, 1851.",
+          "large": "course/en/images/Ophtalmoscope.png",
+          "small": "course/en/images/Ophtalmoscope.png",
+          "attribution": "",
+          "_url": "",
+          "_target": ""
+      },
+      "_isScrollable": false,
+      "_defaultScrollPercent": 0,
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
+  },
+  {
+        "_iD": "c-40",
+        "_parentId": "b-20",
+        "_type": "component",
+        "_component": "verticalItems",
+        "_classes": "",
+        "_layout": "full",
+        "title": "List component",
+        "displayTitle": "",
+        "body": "These databases include:",
+        "bodyAfter": "",
+        "instruction": "In this module, we are going to discuss two freely available databases, Google Scholar and PubMed however others are available.",
+        "_onScreenPercentInviewVertical": 10,
+        "_items": [
+            {
+                "title": "1851",
+                "body": "Direct Ophthalmoscope invented by Hermann Von Helmholtz ",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image1.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1862",
+                "body": "Snellen Acuity Chart invented by Herman Snellen",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image2.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1901",
+                "body": "Retinoscope invented by Wolff",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image3.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1910", 
+                "body": "Fundus Camera invented by Gullstrand",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image4.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1911",
+                "body": "Slit lamp invented by Allvar Gullstand",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image5.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1917",
+                "body": "Ishihara Colour Vision Test invented by Shinobu Ishihara",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image6.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1918",
+                "body": "Gonioscopy lens invented by Alexios Trantas",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image7.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1945",
+                "body": "Binocular Indirect Ophthalmoscope invented by Charles Schepens",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image8.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1945",
+                "body": "Goldmann perimetry invented by Hans Goldman",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image9.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1954 ",
+                "body": "Goldmann Applanation Tonometry invented by Hanns Goldmann",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image10.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1976 ",
+                "body": "LogMAR CHART- Ian Bailey and Jan Lovie-kitchen",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image11.png",
+                "alt": ""
+              }
+            },
+            {
+                "title": "1991",
+                "body": "Optical Coherence Tomography- invented by a team from USA and Austria",
+              "_icon": {
+                "src": "",
+                "_classes": "",
+                "alt": ""
+              },
+              "_graphic": {
+                "src": "course/en/images/TL/image12.png",
+                "alt": ""
+              }
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+      }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "a-01",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg",
+    "title": "a-01",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-04",
+    "_parentId": "co-05",
+    "_type": "article",
+    "_classes": "alternate_bg_blue",
+    "title": "a-01",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  }
+]

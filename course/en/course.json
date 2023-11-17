@@ -1,0 +1,403 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_classes": "",
+  "_htmlClasses": "",
+  "title": "Statistical methods; what, when and why?",
+  "displayTitle": "test",
+  "description": "Module 5 of 9",
+  "body": "Content description in one sentence.",
+  "instructio3": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Show your answer",
+      "ariaLabel": "Show your answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_navigationLogo": {
+    "_isEnabled": true,
+    "_graphic": {
+      "src": "assets/nihr-master-logo-325px.png",
+      "_mobileSrc": "",
+      "alt": "NIHR Logo"
+    },
+    "_fillNavHeight": false,
+    "_hideLogoForMobile": false
+  },
+  "_globals": {
+    "_learnerInfo": {
+      "id": "student.name@example.org",
+      "name": "Name, Student",
+      "firstname": "Student",
+      "lastname": "Name"
+    },
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_extensions": {
+      "_drawer": {
+        "_navOrder": 100,
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ],
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_languagePicker": {
+        "navigationBarLabel": "Select course language",
+        "languageSelector": "Language selector"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "List of page sections and completion status. Select incomplete sections to jump directly to the content.",
+        "pageLevelProgressIndicatorBar": "Page progress. {{percentageComplete}}%. Open page sections.",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "optionalContent": "Optional content",
+        "_navOrder": 90,
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
+      "_resources": {
+        "ariaRegion": "",
+        "resources": "Additional resources."
+      },
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_navigationLogo": {
+        "_navOrder": 1
+      }
+    },
+    "_components": {
+      "_cards": {
+        "ariaRegion": "Cards. Select open button to expand the content."
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results.",
+        "retryText": "Retry"
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "item": "Item {{{itemNumber}}} of {{{totalItems}}}",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_linkItems": {
+        "ariaRegion": "Link items"
+      },
+      "_list": {
+        "ariaRegion": ""
+      },
+      "_matchingGraphic": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_talk": {
+        "ariaRegion": "This component is a talk."
+      },
+      "_verticalItems": {
+        "ariaRegion": "This component is an vertical items."
+      },
+      "_vimeo": {
+        "ariaRegion": "This is a media component which displays a Vimeo video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_youtube": {
+        "ariaRegion": "This is a media component which displays a YouTube video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_dnd-multiple": {
+        "ariaRegion": "Drag and drop. Drag the items and then submit."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_latestTrackingId": 34,
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "View resources for this course by clicking here.",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Document",
+      "media": "Media",
+      "link": "Link",
+      "reference": "Reference"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links",
+      "referenceAria": "View reference resources"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "reference",
+        "title": "Reliability, repeatability, and reproducibility: analysis of measurement errors in continuous variables",
+        "description": "Bartlett, J.W. and Frost, C. (2008), Reliability, repeatability, and reproducibility: analysis of measurement errors in continuous variables. Ultrasound Obstet Gynecol, 31: 466-475.",
+        "_link": "https://doi.org/10.1002/uog.5256"
+      },
+      {
+        "_type": "reference",
+        "title": "Statistical methods for assessing agreement between two methods of clinical measurement.",
+        "description": "Bland JM, Altman DG. Statistical methods for assessing agreement between two methods of clinical measurement. Lancet. 1986 Feb 8;1(8476):307-10. PMID: 2868172."
+      },
+      {
+        "_type": "reference",
+        "title": "Ophthalmic statistics note 6: effect sizes matter",
+        "description": "Cook JA, Bunce C, Doré CJ, et al. Ophthalmic statistics note 6: effect sizes matter. British Journal of Ophthalmology 2015;99:580-581."
+      },
+      {
+        "_type": "reference",
+        "title": "Evidence-based optometry - how to get started, Viewpoint. ",
+        "description": "Gjelle, W. by J.V.B. (2021) Evidence-based optometry - how to get started, Viewpoint. ",
+        "_link": "https://viewpoint.online/handbook/how-to-get-started-with-evidence-based-optometry-in-your-everyday-practice/ "
+      },
+      {
+        "_type": "reference",
+        "title": "A dirty dozen: twelve p-value misconceptions",
+        "description": "Goodman S. A dirty dozen: twelve p-value misconceptions. Semin Hematol. 2008 Jul;45(3):135-40. doi: 10.1053/j.seminhematol.2008.04.003. Erratum in: Semin Hematol. 2011 Oct;48(4):302. PMID: 18582619."
+      },
+      {
+        "_type": "reference",
+        "title": "The statistical versus clinical significance debate.",
+        "description": "LeFort SM. The statistical versus clinical significance debate. Image J Nurs Sch. 1993 Spring;25(1):57-62. doi: 10.1111/j.1547-5069.1993.tb00754.x. PMID: 8240480."
+      },
+      {
+        "_type": "reference",
+        "title": "Implementation of evidence‐based practice in optometry, Clinical and Experimental Optometry",
+        "description": "Philip J Anderton (2007) Implementation of evidence‐based practice in optometry, Clinical and Experimental Optometry, 90:4, 238-243, DOI: 10.1111/j.1444-0938.2007.00153.x"
+      },
+      {
+        "_type": "reference",
+        "title": "Common pitfalls in statistical analysis: Clinical versus statistical significance. ",
+        "description": "Ranganathan P, Pramesh CS, Buyse M. Common pitfalls in statistical analysis: Clinical versus statistical significance. Perspect Clin Res. 2015 Jul-Sep;6(3):169-70. doi: 10.4103/2229-3485.159943. PMID: 26229754; PMCID: PMC4504060."
+      },
+      {
+        "_type": "reference",
+        "title": "Comparison of intraocular pressure measurements with the portable PT100 noncontact tonometer and goldmann applanation tonometry, Clinical Ophthalmology",
+        "description": "Sarwat Salim, Daniel J Linn, James R Echols II & Peter A Netland (2009)Comparison of intraocular pressure measurements with the portable PT100 noncontact tonometer and goldmann applanation tonometry, Clinical Ophthalmology, 3:, 341-344, DOI: 10.2147/opth.s5537"
+      },
+      {
+        "_type": "media",
+        "title": "Statistical vs clinical significance: Are medical trials being misinterpreted?",
+        "description": "YouTube video",
+        "_link": "https://youtu.be/vB-9QVbKNTY"
+      },
+      {
+        "_type": "media",
+        "title": "Differences",
+        "description": "YouTube video",
+        "_link": "https://youtu.be/oi28kkm9qR4"
+      }
+    ]
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "co-05",
+        "_skipIfComplete": true,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 85,
+    "_correctToPass": 75
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "Resume?",
+    "body": "Would you like to resume the course from the location you were at last time?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_vanilla": {
+    "_favIcon": {
+      "_src": ""
+    }
+  },
+  "_footer": {
+    "_isEnabled": true,
+    "_items": [
+      {
+        "_titles": [
+          {
+            "title": "&nbsp"
+          }
+        ]
+      },
+      {
+        "_titles": [
+          {
+            "title": "<div style='padding-top: 1em; padding-bottom: 1em; display: flex; flex-direction: column; align-items: center; justify-content: center;'>In partnership with:</div>"
+          }
+        ]
+      },
+      {
+        "_titles": [
+          {
+            "title": "<div style='display: flex; flex-direction: row; align-items: center; justify-content: center;'><div style='display: flex;  justify-content: center;'><a href='https://www.ulster.ac.uk'><img src='assets/UU-Primary.png'></a><a href='https://www.college-optometrists.org/home'><img src='assets/COO.png' style='width: 70px'></a></div>"
+          }
+        ]
+      },
+      {
+        "_titles": "&nbsp"
+      },
+      {
+        "_titles": [
+          {
+            "title": "<div class= 'feedback-container'><span class='left'><p style='font-size: 09px;'>Spotted an issue with this module's content? <a href='researchteam@college-opometrists.org'>Let us know.</a></span><br></div>"
+          }
+        ]
+      }
+    ]
+  }
+}

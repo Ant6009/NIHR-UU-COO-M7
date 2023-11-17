@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "co-05",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "_htmlClasses": "",
+    "title": "Statistical methods; what, when and why?",
+    "displayTitle": "Statistical methods; what, when and why?",
+    "body": "",
+    "pageBody": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "",
+      "alt": ""
+    },
+    "linkText": "View",
+    "duration": "15 mins",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
