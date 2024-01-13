@@ -677,9 +677,9 @@
     "_layout": "full",
     "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "What is a paired t-test used for? ",
+    "body": "What are the three elements to evidence-based practise?",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "What is a paired t-test used for? ",
+    "ariaQuestion": "What are the three elements to evidence-based practise?",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -692,28 +692,33 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Reliability",
+        "text": "Research evidence, people’s ideas and opinions and clinical guidelines",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Patient preference, normative values for tests and randomized control trials ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Clinical expertise, treatments and people’s ideas and opinions",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Research evidence, patient preference, and clinical expertise",
         "_shouldBeSelected": true,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Repeatability",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
-      },
-      {
-        "text": "Agreement between methods",
-        "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
     ],
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer.<p>Evidence-based practice is about ensuring that the patient wishes and circumstances, along with your own professional judgement, are considered alongside the published evidence. Your patients should understand the benefits and risks of any proposed treatments or management options and all three elements should be weighed up before making a clinical decision with the patient</p>",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. <p>Evidence-based practice is about ensuring that the patient wishes and circumstances, along with your own professional judgement, are considered alongside the published evidence. Your patients should understand the benefits and risks of any proposed treatments or management options and all three elements should be weighed up before making a clinical decision with the patient</p>"
       },
       "_partlyCorrect": {
         "notFinal": "",
