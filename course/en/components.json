@@ -104,9 +104,9 @@
     "_layout": "full",
     "title": "List component",
     "displayTitle": "",
-    "body": "These databases include:",
+    "body": "",
     "bodyAfter": "",
-    "instruction": "In this module, we are going to discuss two freely available databases, Google Scholar and PubMed however others are available.",
+    "instruction": "",
     "_onScreenPercentInviewVertical": 10,
     "_items": [
       {
@@ -278,7 +278,7 @@
     "_classes": "",
     "_layout": "full",
     "title": "Normative data",
-    "displayTitle": "",
+    "displayTitle": "Normative data",
     "body": "<p>Normative data relating to each diagnostic test and instrument are helpful for clinicians to be able to differentiate between “normal” and “abnormal” results.</p><p>It is important to note that these normative values may differ depending on the population being examined (e.g. age, gender, ethnicity etc. may influence n ormative values) and normative values may vary between tests, even if the test is examining the same function or structure. For example, below are two graphs displaying normative data for children’s visual acuity measured using the Lea high contrast picture test (Graph 1) and the Sonksen logMAR crowded letter visual acuity test (Graph 2).</p><p>Like the familiar graphs used by midwives and health visitors to measure baby weight, length and head circumference, these graphs include percentile lines. From these we can determine if a result for a particular individual is an average result for their age i.e. lies on the 50th percentile or whether it is below or above average for age.</p><p>If we consider a monocular acuity of 6/6 (i.e. 0.00 logMAR) in a 7-year-old girl, this would be considered an average result (i.e. at the 50th percentile) using the Lea pictures test. However, the same result measured using the Sonsken letter test would be considered below average as it is between the 25th and 10th percentile</p> ",
     "instruction": "",
     "_pageLevelProgress": {
@@ -286,6 +286,22 @@
       "_isCompletionIndicatorEnabled": false
     }
   },
+  {
+    "_id": "c-44",
+    "_parentId": "b-25",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Normative data",
+    "displayTitle": "",
+    "body": "<p>It is important to note that these normative values may differ depending on the population being examined (e.g. age, gender, ethnicity etc. may influence n ormative values) and normative values may vary between tests, even if the test is examining the same function or structure. For example, below are two graphs displaying normative data for children’s visual acuity measured using the Lea high contrast picture test (Graph 1) and the Sonksen logMAR crowded letter visual acuity test (Graph 2).</p>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
   {
     "_id": "c-55",
     "_parentId": "b-30",
@@ -506,7 +522,7 @@
     "instruction": "Click the button to play",
     "_setCompletionOn": "play",
     "_media": {
-      "_source": "//vimeo.com/885696687",
+      "_source": "//vimeo.com/886173116",
       "_autoplay": false,
       "_loop": false,
       "_pauseWhenOffScreen": false
