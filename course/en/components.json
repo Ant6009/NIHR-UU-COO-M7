@@ -730,6 +730,220 @@
     }
   },
   {
+    "_id": "c-510",
+    "_parentId": "b-410",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "What are the three elements to evidence-based practise?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "What are the three elements to evidence-based practise?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "High",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Low",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-520",
+    "_parentId": "b-420",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "Using the pyramid of evidence, are ideas and opinions high or low level of evidence?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "Using the pyramid of evidence, are ideas and opinions high or low level of evidence?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "High",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Low",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-530",
+    "_parentId": "b-430",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "Can observational studies provide high quality evidence? ",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "Can observational studies provide high quality evidence? ",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "No",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Yes",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time. "
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-540",
+    "_parentId": "b-440",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "What would be an example of an observational study providing high quality evidence?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "What would be an example of an observational study providing high quality evidence?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "If the magnitude of treatment benefit is large and inconsistent",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "If the magnitude of treatment benefit is small and inconsistent ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "If the magnitude of treatment benefit is small and consistent ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "If the magnitude of treatment benefit is large and consistent.  ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer. Observational studies can provide higher quality evidence is the treatment benefit is found to be small and consistent in subjects.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time. Observational studies can provide higher quality evidence is the treatment benefit is found to be small and consistent in subjects."
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
     "_id": "c-1000",
     "_parentId": "b-470",
     "_type": "component",
