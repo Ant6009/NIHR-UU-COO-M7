@@ -92,7 +92,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -102,9 +102,9 @@
     "_component": "verticalItems",
     "_classes": "",
     "_layout": "full",
-    "title": "List component",
-    "displayTitle": "",
-    "body": "",
+    "title": "Optometry innovations",
+    "displayTitle": "Optometry innovations",
+    "body": "This timeline shows the inventions that have shaped optometry.",
     "bodyAfter": "",
     "instruction": "",
     "_onScreenPercentInviewVertical": 10,
@@ -267,7 +267,7 @@
       }
     ],
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": true
     }
   },
   {
@@ -328,7 +328,7 @@
     "body": "<p> For example, below are two graphs displaying normative data for children’s visual acuity measured using the Lea high contrast picture test (Graph 1) and the Sonksen logMAR crowded letter visual acuity test (Graph 2).</p><p>Like the familiar graphs used by midwives and health visitors to measure baby weight, length and head circumference, these graphs include percentile lines. From these we can determine if a result for a particular individual is an average result for their age i.e. lies on the 50th percentile or whether it is below or above average for age.</p><p>If we consider a monocular acuity of 6/6 (i.e. 0.00 logMAR) in a 7-year-old girl, this would be considered an average result (i.e. at the 50th percentile) using the Lea pictures test. However, the same result measured using the Sonsken letter test would be considered below average as it is between the 25th and 10th percentile</p> ",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     }
   },
@@ -381,8 +381,8 @@
     "_component": "text",
     "_classes": "",
     "_layout": "full",
-    "title": "Treatments",
-    "displayTitle": "",
+    "title": "Clinical Management Guidelines",
+    "displayTitle": "Clinical Management Guidelines",
     "body": "<p>Prior to the development of antibiotic ointments such as chloramphenicol, different concoctions were recommended to treat eye infections. For example, Bald's Leechbook, an Old English medical textbook thought to be written in the mid 10th century recommends styes are treated with a salve of wine, leeks, garlic and ox gall from a cow's stomach that has been left to ferment in a copper pot for nine days. </p><p>Research continues to drive the development of new and improved treatments and care for our patients. The College of Optometrists’ Clinical Management Guidelines (CMGs) are formulated following review of the current research evidence. Dr. Paramdeep Bilkhu McOptom Clinical Advisor for the College tells us more:</p>",
     "instruction": ""
   },
@@ -393,7 +393,7 @@
     "_classes": "",
     "_layout": "full",
     "_component": "vimeo",
-    "title": "Component Title",
+    "title": "Clinical Management Guidelines Video",
     "displayTitle": "",
     "body": "",
     "instruction": "Click the button to play",
@@ -503,8 +503,7 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
-    }
+      "_isEnabled": false   }
   },
   {
     "_id": "c-100",
