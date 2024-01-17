@@ -295,11 +295,11 @@
     "_layout": "left",
     "title": "Normative data",
     "displayTitle": "",
-        "_graphic": {
-          "src": "course/en/images/leaHighContrast.png",
-          "alt": "Picture a of lady pointing at a shape on the Lea High Contrast picture test.",
-          "attribution": ""
-        }
+    "_graphic": {
+      "src": "course/en/images/leaHighContrast.png",
+      "alt": "Picture a of lady pointing at a shape on the Lea High Contrast picture test.",
+      "attribution": ""
+    }
   },
   {
     "_id": "c-49",
@@ -341,12 +341,12 @@
     "_layout": "left",
     "title": "graphic",
     "displayTitle": "",
-        "_graphic": {
-          "src": "course/en/images/lowcontras.png",
-          "alt": "A graph of the Lea high contrast visual acuity test.",
-          "attribution": ""
-        }
-   },
+    "_graphic": {
+      "src": "course/en/images/lowcontras.png",
+      "alt": "A graph of the Lea high contrast visual acuity test.",
+      "attribution": ""
+    }
+  },
   {
     "_id": "c-57",
     "_parentId": "b-30",
@@ -356,11 +356,11 @@
     "_layout": "right",
     "title": "graphic",
     "displayTitle": "",
-        "_graphic": {
-          "src": "course/en/images/SonksenLogMAR.png",
-          "alt": "A graph of the Sonksen logMAR test of visual acuity.",
-          "attribution": ""
-        }
+    "_graphic": {
+      "src": "course/en/images/SonksenLogMAR.png",
+      "alt": "A graph of the Sonksen logMAR test of visual acuity.",
+      "attribution": ""
+    }
   },
   {
     "_id": "c-60",
@@ -503,7 +503,8 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": false   }
+      "_isEnabled": false
+    }
   },
   {
     "_id": "c-100",
@@ -577,7 +578,7 @@
     "_component": "text",
     "title": "component title",
     "displaytitle": "",
-    "body": "clinical evidence comes from many sources. in earlier modules, we covered how to critically review sources of evidence by examining the study design, assessing the quality of the methodology and determining whether the results are clinically significant. these skills are essential when implementing evidence-based practice.",
+    "body": "Clinical evidence comes from many sources. in earlier modules, we covered how to critically review sources of evidence by examining the study design, assessing the quality of the methodology and determining whether the results are clinically significant. these skills are essential when implementing evidence-based practice.",
     "instruction": "",
     "_pagelevelprogress": {
       "_isenabled": false

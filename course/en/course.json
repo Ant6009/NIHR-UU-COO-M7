@@ -273,62 +273,45 @@
     "_resourcesItems": [
       {
         "_type": "reference",
-        "title": "Reliability, repeatability, and reproducibility: analysis of measurement errors in continuous variables",
-        "description": "Bartlett, J.W. and Frost, C. (2008), Reliability, repeatability, and reproducibility: analysis of measurement errors in continuous variables. Ultrasound Obstet Gynecol, 31: 466-475.",
-        "_link": "https://doi.org/10.1002/uog.5256"
+        "title": "The Sonksen logMAR test of visual acuity: II. Age norms from 2 years 9 months to 8 years",
+        "description": "",
+        "_link": "https://www.sciencedirect.com/science/article/pii/S1091853107003114 "
       },
       {
         "_type": "reference",
-        "title": "Statistical methods for assessing agreement between two methods of clinical measurement.",
-        "description": "Bland JM, Altman DG. Statistical methods for assessing agreement between two methods of clinical measurement. Lancet. 1986 Feb 8;1(8476):307-10. PMID: 2868172."
+        "title": "Low-contrast acuity measurement: does it add value in the visual assessment of down syndrome and cerebral palsy populations?",
+        "description": "",
+        "_link": "https://www.sciencedirect.com/science/article/pii/S1091853107003114 "
       },
       {
         "_type": "reference",
-        "title": "Ophthalmic statistics note 6: effect sizes matter",
-        "description": "Cook JA, Bunce C, Doré CJ, et al. Ophthalmic statistics note 6: effect sizes matter. British Journal of Ophthalmology 2015;99:580-581."
+        "title": "Implementation of evidence-based practice in optometry. Clinical and Experimental Optometry",
+        "description": "Anderton, P.J. (2007), Implementation of evidence-based practice in optometry. Clinical and Experimental Optometry, 90: 238-243",
+        "_link": "https://www.sciencedirect.com/science/article/pii/S1091853107003114 "
       },
       {
         "_type": "reference",
-        "title": "Evidence-based optometry - how to get started, Viewpoint. ",
-        "description": "Gjelle, W. by J.V.B. (2021) Evidence-based optometry - how to get started, Viewpoint. ",
-        "_link": "https://viewpoint.online/handbook/how-to-get-started-with-evidence-based-optometry-in-your-everyday-practice/ "
+        "title": "Evidence-based optometry and in-practice research. Ophthalmic and Physiological Optics",
+        "description": "Elliott, D.B. (2012), Evidence-based optometry and in-practice research. Ophthalmic and Physiological Optics, 32: 81-82. ",
+        "_link": "https://doi.org/10.1111/j.1475-1313.2012.00899.x"
       },
       {
         "_type": "reference",
-        "title": "A dirty dozen: twelve p-value misconceptions",
-        "description": "Goodman S. A dirty dozen: twelve p-value misconceptions. Semin Hematol. 2008 Jul;45(3):135-40. doi: 10.1053/j.seminhematol.2008.04.003. Erratum in: Semin Hematol. 2011 Oct;48(4):302. PMID: 18582619."
-      },
-      {
-        "_type": "reference",
-        "title": "The statistical versus clinical significance debate.",
-        "description": "LeFort SM. The statistical versus clinical significance debate. Image J Nurs Sch. 1993 Spring;25(1):57-62. doi: 10.1111/j.1547-5069.1993.tb00754.x. PMID: 8240480."
-      },
-      {
-        "_type": "reference",
-        "title": "Implementation of evidence‐based practice in optometry, Clinical and Experimental Optometry",
-        "description": "Philip J Anderton (2007) Implementation of evidence‐based practice in optometry, Clinical and Experimental Optometry, 90:4, 238-243, DOI: 10.1111/j.1444-0938.2007.00153.x"
-      },
-      {
-        "_type": "reference",
-        "title": "Common pitfalls in statistical analysis: Clinical versus statistical significance. ",
-        "description": "Ranganathan P, Pramesh CS, Buyse M. Common pitfalls in statistical analysis: Clinical versus statistical significance. Perspect Clin Res. 2015 Jul-Sep;6(3):169-70. doi: 10.4103/2229-3485.159943. PMID: 26229754; PMCID: PMC4504060."
-      },
-      {
-        "_type": "reference",
-        "title": "Comparison of intraocular pressure measurements with the portable PT100 noncontact tonometer and goldmann applanation tonometry, Clinical Ophthalmology",
-        "description": "Sarwat Salim, Daniel J Linn, James R Echols II & Peter A Netland (2009)Comparison of intraocular pressure measurements with the portable PT100 noncontact tonometer and goldmann applanation tonometry, Clinical Ophthalmology, 3:, 341-344, DOI: 10.2147/opth.s5537"
+        "title": "How to use the Clinical Management Guidelines - College of Optometrists. ",
+        "description": "Goodman S. A dirty dozen: twelve p-value misconceptions. Semin Hematol. 2008 Jul;45(3):135-40. doi: 10.1053/j.seminhematol.2008.04.003. Erratum in: Semin Hematol. 2011 Oct;48(4):302. PMID: 18582619.",
+        "_link": "https://www.college-optometrists.org/clinical-guidance/clinical-management-guidelines/how-to-use-the-clinical-management-guidelines "
       },
       {
         "_type": "media",
-        "title": "Statistical vs clinical significance: Are medical trials being misinterpreted?",
-        "description": "YouTube video",
-        "_link": "https://youtu.be/vB-9QVbKNTY"
+        "title": "Clinical Management Guidelines",
+        "description": "Vimeo video",
+        "_link": "https://vimeo.com/885696687"
       },
       {
         "_type": "media",
-        "title": "Differences",
-        "description": "YouTube video",
-        "_link": "https://youtu.be/oi28kkm9qR4"
+        "title": "Evidence Based Practice",
+        "description": "Animation",
+        "_link": "https://vimeo.com/886173116"
       }
     ]
   },
